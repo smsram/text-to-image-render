@@ -3,3 +3,4 @@ flask-cors
 requests
 pillow
 PyPDF2
+gunicorn
